@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, meu nome é Paloma Cruz.</h1>
 <h3 align="center"> Atualmente estou iniciando os meus estudos na área de Frontend para em breve criar meus primeiros projetos.</h3>
 
-- 🌱 Atualmente estou aprendendo conteúdos sobre: **HTML,CSS e JavaScript.**
+- 🌱 Tenho aprendido conteúdos sobre: **HTML,CSS e JavaScript.**
 
 - 📫 Meu email de contato é: **dev_paloma@outlook.com**
 
