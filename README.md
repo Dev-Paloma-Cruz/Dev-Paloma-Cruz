@@ -1,11 +1,11 @@
-<h1 align="center">Oi 👋, meu nome é Paloma Cruz.</h1>
-<h3 align="center">Estou iniciando os meus estudos na área de Frontend e espero em breve criar meus primeiros projetos.</h3>
+<h1 align="center">Olá 👋, meu nome é Paloma Cruz.</h1>
+<h3 align="center"> Atualmente estou iniciando os meus estudos na área de Frontend para em breve criar meus primeiros projetos.</h3>
 
-- 🌱 Atualmente estou aprendendo sobre: **HTML,CSS e JavaScript**
+- 🌱 Atualmente estou aprendendo conteúdos sobre: **HTML,CSS e JavaScript.**
 
 - 📫 Meu email de contato é: **dev_paloma@outlook.com**
 
-<h3 align="left">Conectar comigo:</h3>
+<h3 align="left">Para se conectar comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eupalomacruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eupalomacruz" height="30" width="40" /></a>
 <a href="https://instagram.com/dev_paloma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_paloma" height="30" width="40" /></a>
